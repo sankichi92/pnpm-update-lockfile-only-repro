@@ -9,10 +9,10 @@ importers:
   .:
     dependencies:
       axios:
-        specifier: 1.8.4
+        specifier: ^1.8.4
         version: 1.8.4
       lodash:
-        specifier: 4.17.20
+        specifier: ^4.17.20
         version: 4.17.20
 
 packages:
